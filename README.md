@@ -4,7 +4,7 @@
 - 🎓 Diploma in Computer Engineering  
 - 📱 Focused on Android Development  
 - 🤖 Building my own AI Assistant **Kanix (Jarvis Inspired)**  
-- ⚡ Passionate about real-world problem solving  
+- ⚡ Interested in real-world problem solving  
 
 ---
 
@@ -24,9 +24,11 @@
 ### ☁️ Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🗄️ Database (Basic)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### 🧪 Currently Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -41,7 +43,7 @@
 - Personal assistant capabilities  
 - Offline-first AI concept  
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/Kanix)
+🔗 [View Project](https://github.com/malusarekrishnab-cyber/Kanix)
 
 ---
 
@@ -55,7 +57,7 @@
 - Monthly & 6-month reports  
 - Firebase integration  
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/Smart-Attendance)
+🔗 [View Project](https://github.com/malusarekrishnab-cyber/Smart-Attendance)
 
 ---
 
@@ -68,7 +70,7 @@
 - Easy resume creation  
 - Clean design  
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/ResumeCraft)
+🔗 [View Project](https://github.com/malusarekrishnab-cyber/ResumeCraft)
 
 ---
 
@@ -79,6 +81,5 @@
 
 ---
 
-## 📫 Contact 
-📱 Phone: 8767612680
+## 📫 Contact
 - 📧 Email: malusarekrishnab@gmail.com
