@@ -132,9 +132,6 @@ https://github.com/malusarekrishnab-cyber/smart-attendance-website
 - User-Friendly Interface
 - Attendance Management Concept
 
-🔗 Repository:
-https://github.com/malusarekrishnab-cyber/smart-attendance-website
-
 ---
 
 ### 🌟 Open Source Contributions
