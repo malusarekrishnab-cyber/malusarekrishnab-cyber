@@ -1,89 +1,8 @@
-# 👋 Krishna Malusare
-
-### 🚀 Computer Engineering Student | Android Developer | AI Enthusiast
-
-Passionate about building software that solves real-world problems through technology. Currently focused on Android development, software engineering, automation, and artificial intelligence while continuously improving technical skills through hands-on projects.
-
----
-
-## 🎯 About Me
-
-🔹 Diploma in Computer Engineering
-
-🔹 Android Application Developer
-
-🔹 Creator of **Kanix AI Assistant**
-
-🔹 Software Development Enthusiast
-
-🔹 Linux & Open Source Learner
-
-🔹 Learning Python, AI & Automation
-
-🔹 Interested in Real-World Problem Solving
-
-🔹 Building Projects to Improve Practical Skills
-
----
-
-## 🛠 Technical Skills
-
-### 💻 Programming Languages
-
-- C
-- C++
-- Java
-- Python *(Learning)*
-
-### 🌐 Web Development
-
-- HTML5
-- CSS3
-- JavaScript *(Basic)*
-
-### 📱 Mobile Development
-
-- Android Development
-- Java
-- XML
-
-### ☁️ Database & Cloud
-
-- Firebase
-- SQL
-
-### ⚙️ Tools & Platforms
-
-- Git
-- GitHub
-- Linux
-- Windows
-- VS Code
-- Android Studio
-
----
-
-## 📚 Currently Learning
-
-🔹 Python Development
-
-🔹 Artificial Intelligence Fundamentals
-
-🔹 Android Application Architecture
-
-🔹 Git & Open Source Contribution
-
-🔹 Linux System Administration
-
-🔹 Software Development Best Practices
-
----
-
 ## 🚀 Featured Projects
 
-### 🤖 Kanix AI Assistant
+### 🤖 Kanix AI Assistant *(In Development)*
 
-Personal AI Assistant focused on productivity, automation, and intelligent interaction.
+Personal AI assistant inspired by modern intelligent assistant systems.
 
 **Technologies Used**
 - Python
@@ -91,16 +10,19 @@ Personal AI Assistant focused on productivity, automation, and intelligent inter
 - AI Fundamentals
 
 **Features**
-- Voice Assistant Concept
+- Voice Assistant
 - Productivity Automation
 - Personal Commands
 - Offline-First Vision
 
+🔗 **Repository**
+https://github.com/malusarekrishnab-cyber/Kanix
+
 ---
 
-### 📱 Smart Attendance System
+### 📱 Smart Attendance System *(In Development)*
 
-RFID-based attendance management application with cloud integration.
+RFID-based attendance management system with Android integration.
 
 **Technologies Used**
 - Java
@@ -115,11 +37,14 @@ RFID-based attendance management application with cloud integration.
 - Report Generation
 - Firebase Integration
 
+🔗 **Repository**
+https://github.com/malusarekrishnab-cyber/Smart-Attendance
+
 ---
 
-### 🌐 ResumeCraft
+### 🌐 Smart Attendance Website
 
-Simple and responsive web application for creating resumes.
+Attendance management website project focused on simplicity and usability.
 
 **Technologies Used**
 - HTML
@@ -129,74 +54,22 @@ Simple and responsive web application for creating resumes.
 **Features**
 - Responsive Design
 - User-Friendly Interface
-- Resume Generation Workflow
+- Attendance Management Concept
+
+🔗 **Repository**
+https://github.com/malusarekrishnab-cyber/smart-attendance-website
 
 ---
 
-## 🌟 Open Source Journey
+### 🌟 Open Source Contributions
 
-🔹 Learning Git & GitHub Workflow
+Learning Git and GitHub through open-source contributions and pull requests.
 
-🔹 Pull Requests Submitted & Merged
+🔗 **First Contributions**
+https://github.com/malusarekrishnab-cyber/first-contributions
 
-🔹 Exploring Collaborative Development
+🔗 **First Contributions Website**
+https://github.com/malusarekrishnab-cyber/firstcontributions.github.io
 
-🔹 Contributing to Community Projects
-
----
-
-## 🏆 Achievements
-
-🦈 Pull Request Contributor
-
-🌟 Active GitHub Contributor
-
-🚀 Consistent Project Builder
-
-📚 Continuous Learner
-
----
-
-## 💡 Development Philosophy
-
-> Build. Learn. Improve. Repeat.
->
-> Focus on creating practical solutions, writing clean code, and continuously improving through real-world projects.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malusarekrishnab-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malusarekrishnab-cyber&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malusarekrishnab-cyber&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 📫 Contact
-
-📧 Email: **malusarekrishnab@gmail.com**
-
-🐙 GitHub: **github.com/malusarekrishnab-cyber**
-
-📷 Instagram: **@krushna_malusare_patil**
-
----
-
-## 🎯 Career Objective
-
-To build a successful career in software development by contributing to impactful projects, mastering modern technologies, and continuously expanding technical expertise through practical experience.
-
-> "Turning ideas into software, and software into solutions."
+🔗 **Kanha Test Repository**
+https://github.com/malusarekrishnab-cyber/kanha-test
