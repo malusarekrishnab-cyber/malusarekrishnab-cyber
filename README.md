@@ -100,39 +100,27 @@ Personal AI Assistant focused on productivity, automation, and intelligent inter
 https://github.com/malusarekrishnab-cyber/Kanix
 
 ---
-
-### 📱 Smart Attendance System *(In Development)*
-
-RFID-based attendance management application with cloud integration.
-
-**Technologies Used**
-- Java
-- XML
-- Firebase
-- NodeMCU
-
-**Features**
-- Student Authentication
-- Teacher Dashboard
-- Real-Time Attendance Tracking
-- Report Generation
-- Firebase Integration
-
-🔗 Repository:
-https://github.com/malusarekrishnab-cyber/Smart-Attendance
-
----
-
-## 🚀 Projects
-
-### 📱 Smart Attendance Website
-🔗 https://github.com/malusarekrishnab-cyber/smart-attendance-website
-
 ### 🌐 Smart Attendance Website
 
 Attendance management website project focused on simplicity and usability.
 
-🔗 https://github.com/malusarekrishnab-cyber/smart-attendance-website
+**Technologies Used**
+
+* HTML
+* CSS
+* JavaScript
+
+**Features**
+
+* Responsive Design
+* User-Friendly Interface
+* Attendance Management Concept
+
+🌍 **Live Website**
+https://malusarekrishnab-cyber.github.io/smart-attendance-website/
+
+🔗 **Repository**
+https://github.com/malusarekrishnab-cyber/smart-attendance-website
 
 **Technologies Used**
 - HTML
