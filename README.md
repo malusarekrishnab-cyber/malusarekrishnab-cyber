@@ -133,7 +133,35 @@ https://github.com/malusarekrishnab-cyber/smart-attendance-website
 - Attendance Management Concept
 
 ---
+### 📄 ResumeCraft (In Development)
 
+Modern resume builder web application designed to create professional resumes quickly and efficiently.
+
+#### ✨ Features
+
+- Professional Resume Templates
+- Responsive Design
+- Clean User Interface
+- Easy Resume Creation
+- Modern Layout
+
+#### 🛠 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+#### 🌐 Live Demo
+
+https://resume-craft-copy-b3a85733.base44.app
+
+#### 🚧 Status
+
+Currently under active development.
+
+#### 🚧 Status
+
+Currently under active development with new features being added regularly.
 ### 🌟 Open Source Contributions
 
 Learning Git and GitHub through open-source contributions and pull requests.
