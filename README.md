@@ -123,9 +123,16 @@ https://github.com/malusarekrishnab-cyber/Smart-Attendance
 
 ---
 
+## 🚀 Projects
+
+### 📱 Smart Attendance Website
+🔗 https://github.com/malusarekrishnab-cyber/smart-attendance-website
+
 ### 🌐 Smart Attendance Website
 
 Attendance management website project focused on simplicity and usability.
+
+🔗 https://github.com/malusarekrishnab-cyber/smart-attendance-website
 
 **Technologies Used**
 - HTML
